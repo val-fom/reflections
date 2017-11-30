@@ -1,0 +1,7 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: initializing creates repository 
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: The staging area is like buffer between the working directory and the repository. By adding files in it we prepare to commit them. And we can see which files are currently added (and are ready for commit) and which a not.
