@@ -5,3 +5,33 @@ A: initializing creates repository
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 A: The staging area is like buffer between the working directory and the repository. By adding files in it we prepare to commit them. And we can see which files are currently added (and are ready for commit) and which a not.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+A: I can put in it only those files which are modified in logical change
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: If if I want to test some new feature or make an experiment I can do changes and in any time return to master branch or merge new branch into master
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: I can find out visibility of branches
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A: in the result we get new merge commit which has two parents from both branches. So thats why we dont need old branch any more and we can delelet it. But commits will be still available. By commands <diff> and <show>
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: automatic merging allows us to do merging quickly in some cases. But some times it makes conflicts which we must solve manually
+
+
+
+
+
+
+
+
+
+
