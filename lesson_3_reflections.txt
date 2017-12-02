@@ -29,6 +29,7 @@ Q: When would you want to make changes in a separate branch rather than directly
  	 What benefits does each approach have?
 
 A: When I collaborate to make a pull request I need to do my changes in separate branch.
+	 In this case my teammate can review my changes before merging.
 	 And common advantage is, like it was said before, using branches i can simply switch between
 	 different tasks, features, experimental changes.
 
