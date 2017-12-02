@@ -2,15 +2,40 @@ Q: When would you want to use a remote repository rather than keeping all your w
 
 A: When I'm waking on different computers, in team and/or want to share my code with somebody
 
-Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Q: Why might you want to always pull changes manually rather than having Git automatically
+	 stay up-to-date with your remote repository?
 
 A: Because while I'm working in my project I want to know what exactly is going on with it
 
-Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Q: Describe the differences between forks, clones, and branches. When would you use
+	 one instead of another?
 
-A: Forks are placed on GitHub only. Clone can be like a copy of remote repository on local machine, a both on local. Branches is a label used to mark some commits for different experimets or developing some new features.
+A: Forks are placed on GitHub only. Clone can be like a copy of remote repository on
+	 local machine, a both on local. Branches is a label used to mark some commits for
+	 different experimets or developing some new features.
 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 
 A: It is good to know where is head of our branch ahead or behind relatively to remote origin
+
+Q: How would you collaborate without using Git or GitHub? What would be easier,
+	 and what would be harder?
+
+A: I'll use shared or cloud directory. Or simply use an email)
+	 May be it would be not as complicated at the beginnig as Git, 
+	 but if you know how to use Git and GitHub collaborating would be more efective 
+
+Q: When would you want to make changes in a separate branch rather than directly in master?
+ 	 What benefits does each approach have?
+
+A: When I collaborate to make a pull request I need to do my changes in separate branch.
+	 And common advantage is, like it was said before, using branches i can simply switch between
+	 different tasks, features, experimental changes.
+
+
+
+
+
+
+
 
